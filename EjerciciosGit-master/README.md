@@ -18,3 +18,9 @@ Se trata de una serie de ejercicio cuyo propósito es introducir el sistema de c
 |Autor|IES|
 |-----|---|
 |Manuel Cuevas|IES Jaume II El Just|
+
+|Contribuidoir|IES|
+|-----|---|
+|David Bou|IES Jaume II El Just|
+
+URL: https://github.com/davidbou99/EjerciciosGit/
